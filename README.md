@@ -39,12 +39,10 @@ MOV CX,AX;
 MOV AX,0000H;
 HLT;
 ```
-
 ## Output  
 ![inp](11.png)
  
 ## Subtraction   of 8 bit numbers  ALP 
-
 ```
 org 100h
 MOV AH,04;
@@ -68,7 +66,6 @@ HLT;
 ```
  ## Output  
 ![inp](13.png)
-
 ## Division alp 
 ```
 org 100h
@@ -79,7 +76,6 @@ MOV CX,AX;
 MOV AX,0000H;
 HLT;
 ```
-
 ## Output  
 ![inp](14.png)
 
