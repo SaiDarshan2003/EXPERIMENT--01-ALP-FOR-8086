@@ -2,7 +2,7 @@
 ```
 Name : Sai Darshan G
 Roll no : 212221240047
-Date of experiment : 09/09/2022
+Date of experiment : 02/08/2022
 ```
 ## Aim: 
 To Write and execute ALP on fundamental arithmetic and logical operations
