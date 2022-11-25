@@ -41,7 +41,7 @@ HLT;
 ```
 
 ## Output  
-![inp](1.png)
+![inp](11.png)
  
 ## Subtraction   of 8 bit numbers  ALP 
 
@@ -55,7 +55,7 @@ MOV AX,0000H;
 HLT;
 ```
 ## Output  
-![inp](2.png)
+![inp](12.png)
 ## Multiplication alp 
 ```
 org 100h
@@ -67,7 +67,7 @@ MOV AX,0000H;
 HLT;
 ```
  ## Output  
-![inp](3.png)
+![inp](13.png)
 
 ## Division alp 
 ```
@@ -81,7 +81,7 @@ HLT;
 ```
 
 ## Output  
-![inp](4.png)
+![inp](14.png)
 
 ## Result :
 Thus, a program is executed on ALP for the fundamental arithmetic and logical operations.
